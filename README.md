@@ -1,4 +1,4 @@
-**##Abstract:** This project aims to determine if there is a difference in the access and utilization of Medicare health insurance services at various geographic, demographic and epidemiological levels. We use inpatient 
+**Abstract:** This project aims to determine if there is a difference in the access and utilization of Medicare health insurance services at various geographic, demographic and epidemiological levels. We use inpatient 
 and outpatient data from 2018-2020 to determine differences in access to services before and during the COVID pandemic. Since Medicare is most commonly availed by older citizens we also use Post-Acute care and Hospice 
 data to study differences in access to services based on gender, chronic conditions, duration of utilization and medicare payments. This data can be used to understand the most common services availed by older patients 
 and to examine if the differences in cost of care and access can be attributed to a few key factors. 
